@@ -15,19 +15,19 @@ img {
 
 .card{
     float: left;
-    width: 20rem;
+    width: 30rem;
 }
 
 .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 100px;
+    height: 20px;
   }
 
   .footer-container {
     margin-left: 40%;
-    width: 50%;
+    width: 100%;
     padding: 10px;
     font-size: small;
   }
@@ -35,4 +35,8 @@ img {
   iframe{
     float: left;
     margin: 0 10% 0 10%;
+}
+
+body {
+    background-color: bisque;
 }
